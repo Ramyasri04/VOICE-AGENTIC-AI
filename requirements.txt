@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+pandas
+streamlit
+requests
+pyaudio
+google-generativeai
+openpyxl
